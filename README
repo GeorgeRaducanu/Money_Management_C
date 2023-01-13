@@ -1,0 +1,15 @@
+#Copyright 2021-2022 Raducanu George-Cristian 311CAb
+
+A brief description of the implementation of the homework
+The size_arr function returns the number of bytes of the *arr vector
+The add_last function adds the data structure in the last position of the vector and actualises the length using the memcpy function
+The add_at function inserts at the given index the data structure. The operation are done using basic operations with memory
+The find function prints the data structures stored in the generic vector at the given index at it takes care of the different types
+of dedications
+The delete_at functions deletes the dedication at the given index so "Florin Copilu' de Biti" can sing uniterupted
+The print function shows all dedications so "Florin Copilu' de Biti" can rest a little bit between dedications.
+The verif_comm verifies the type of command selected
+The main function brings all the other functions together as dedications bring people together.
+It will use all of the previous function to solve the homework(by allocating and dealocating the data structure) and inserting the
+dedication in the vector and performing the required operations.
+In this way the program helps solve the required problems.
